@@ -1,5 +1,4 @@
 # SystemKimchiLab
 
-# Kimchi Jjigae
-
-When you fall
+# Kimchi Fried Rice
+Jonna delicious

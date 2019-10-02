@@ -1,4 +1,5 @@
 # SystemKimchiLab
 
 # Kimchi Fried Rice
-Jonna delicious
+
+Try curry with kimchi! then you can become korean :0
